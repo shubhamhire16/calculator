@@ -40,13 +40,13 @@ button{
   background-color: #B9B4C7;
   border-radius: 5px;
   color: #fff;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
   border: 2px solid black;
   width: 57px;
   height: 57px;
   cursor: pointer;
-  
+  text-align: center;
 }
 .rows{
     margin: 8px 0px;
